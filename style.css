@@ -1,0 +1,22 @@
+body{
+    font-family: "Homer Simpson UI";
+    background-color: whitesmoke;
+    padding: 0.5em 1em 0.5em 1em;
+}
+#navegacion{
+    display: inline;
+}
+
+#navegacion li{
+    display: inline;
+    text-decoration: none;
+    color: black;
+}
+
+#logo{
+    width: 100px;
+}
+
+footer {
+    text-align: end;
+}
